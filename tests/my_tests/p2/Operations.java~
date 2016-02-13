@@ -1,0 +1,11 @@
+
+
+import java.lang.System;
+
+public class Operations{
+
+    public static void main( String [] args){
+	System.out.println("El resultado es " + 5/5);
+    }
+    
+}
